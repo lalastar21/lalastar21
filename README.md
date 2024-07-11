@@ -1,15 +1,3 @@
-## Hi there 👋
-
-<!--
-**lalastar21/lalastar21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on [BOLD9](https://github.com/bold-9).
-- 💬 Ask me about **Design**
-- 📫 How to reach me: eblee@bold-9.com
--->
-
 
  ## 🖼️ Skillset
  **Design Program**
